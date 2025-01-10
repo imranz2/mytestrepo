@@ -8,4 +8,8 @@ public class SomeClass {
     public int getNum() {
         return num;
     }
+
+    public void partner1Method() {
+        System.out.println("yay");
+    }
 }
