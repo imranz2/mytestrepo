@@ -4,4 +4,8 @@ public class SomeClass {
     public SomeClass(int num){
         this.num = num;
     }
+
+    public int getNum() {
+        return num;
+    }
 }
